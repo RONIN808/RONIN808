@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![RONIN github stats](https://github-readme-stats.vercel.app/api?username=RONIN808)](https://github.com/RONIN808)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RONIN808&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=RONIN808_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
 
 <!--
 **RONIN808/RONIN808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
